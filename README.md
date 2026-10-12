@@ -42,5 +42,5 @@ I'm currently looking for **Data Analyst / Business Analyst** roles.
 ### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-agnal1890.github.io-1F5F6B?style=flat-square&logo=githubpages&logoColor=white)](https://agnal1890.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnal-varghesepindiyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnal-varghese-pindiyan-103885250/)
 [![Email](https://img.shields.io/badge/Email-agnalvp2000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agnalvp2000@gmail.com)
